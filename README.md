@@ -1,6 +1,6 @@
-# 2025_October_CTF
+# 2025_December_CTF
 
-Notes, scripts, and artifacts for October 2025 CTF.
+Notes, scripts, and artifacts for December 2025 CTF that goes from december 8th through the 12th.
 
 ## Structure
 - `writeups/`: Challenge-by-challenge notes and solutions
