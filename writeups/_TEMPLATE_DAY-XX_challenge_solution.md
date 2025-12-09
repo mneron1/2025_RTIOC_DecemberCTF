@@ -155,8 +155,4 @@ Example:
 
 ---
 
-Would you like me to make a **pre-filled version of this template** using the **RSA challenge you just solved** (so it looks like an actual published example writeup you could post)?
-
----
-
 Generated with OpenIA ChatGPT
