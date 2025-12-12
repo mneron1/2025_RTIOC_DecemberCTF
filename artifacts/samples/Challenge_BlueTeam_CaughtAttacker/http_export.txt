@@ -1,0 +1,438 @@
+No.     Time           Source                Destination           Protocol Length Info
+    155 14.563283      172.20.77.58          104.99.59.24          HTTP     208    GET /connecttest.txt HTTP/1.1 
+
+Frame 155: 208 bytes on wire (1664 bits), 208 bytes captured (1664 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 104.99.59.24
+Transmission Control Protocol, Src Port: 52959, Dst Port: 80, Seq: 1, Ack: 1, Len: 154
+Hypertext Transfer Protocol
+    GET /connecttest.txt HTTP/1.1\r\n
+    Cache-Control: no-cache\r\n
+    Connection: Close\r\n
+    Pragma: no-cache\r\n
+    User-Agent: Microsoft NCSI\r\n
+    Host: www.msftconnecttest.com\r\n
+    \r\n
+    [Response in frame: 157]
+    [Full request URI: http://www.msftconnecttest.com/connecttest.txt]
+
+No.     Time           Source                Destination           Protocol Length Info
+    192 15.124342      172.20.77.58          199.232.210.172       HTTP     299    GET /msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab?00a97da490fceb51 HTTP/1.1 
+
+Frame 192: 299 bytes on wire (2392 bits), 299 bytes captured (2392 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 199.232.210.172
+Transmission Control Protocol, Src Port: 52961, Dst Port: 80, Seq: 1, Ack: 1, Len: 245
+Hypertext Transfer Protocol
+    GET /msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab?00a97da490fceb51 HTTP/1.1\r\n
+    Cache-Control: no-cache\r\n
+    Connection: Keep-Alive\r\n
+    Pragma: no-cache\r\n
+    Accept: */*\r\n
+    User-Agent: Microsoft-CryptoAPI/10.0\r\n
+    Host: ctldl.windowsupdate.com\r\n
+    \r\n
+    [Response in frame: 199]
+    [Full request URI: http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab?00a97da490fceb51]
+
+No.     Time           Source                Destination           Protocol Length Info
+    213 15.210389      172.20.77.58          23.38.128.228         HTTP     294    GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBQ50otx%2Fh0Ztl%2Bz8SiPI7wEWVxDlQQUTiJUIBiV5uNu5g%2F6%2BrkS7QYXjzkCEAUZZSZEml49Gjh0j13P68w%3D HTTP/1.1 
+
+Frame 213: 294 bytes on wire (2352 bits), 294 bytes captured (2352 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 23.38.128.228
+Transmission Control Protocol, Src Port: 52962, Dst Port: 80, Seq: 1, Ack: 1, Len: 240
+Hypertext Transfer Protocol
+    GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBQ50otx%2Fh0Ztl%2Bz8SiPI7wEWVxDlQQUTiJUIBiV5uNu5g%2F6%2BrkS7QYXjzkCEAUZZSZEml49Gjh0j13P68w%3D HTTP/1.1\r\n
+    Connection: Keep-Alive\r\n
+    Accept: */*\r\n
+    User-Agent: Microsoft-CryptoAPI/10.0\r\n
+    Host: ocsp.digicert.com\r\n
+    \r\n
+    [Response in frame: 215]
+    [Full request URI: http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBQ50otx%2Fh0Ztl%2Bz8SiPI7wEWVxDlQQUTiJUIBiV5uNu5g%2F6%2BrkS7QYXjzkCEAUZZSZEml49Gjh0j13P68w%3D]
+
+No.     Time           Source                Destination           Protocol Length Info
+    341 26.605501      172.20.77.58          23.38.128.228         HTTP     290    GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBSAUQYBMq2awn1Rh6Doh%2FsBYgFV7gQUA95QNVbRTLtm8KPiGxvDl7I90VUCEAJ0LqoXyo4hxxe7H%2Fz9DKA%3D HTTP/1.1 
+
+Frame 341: 290 bytes on wire (2320 bits), 290 bytes captured (2320 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 23.38.128.228
+Transmission Control Protocol, Src Port: 52966, Dst Port: 80, Seq: 1, Ack: 1, Len: 236
+Hypertext Transfer Protocol
+    GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBSAUQYBMq2awn1Rh6Doh%2FsBYgFV7gQUA95QNVbRTLtm8KPiGxvDl7I90VUCEAJ0LqoXyo4hxxe7H%2Fz9DKA%3D HTTP/1.1\r\n
+    Connection: Keep-Alive\r\n
+    Accept: */*\r\n
+    User-Agent: Microsoft-CryptoAPI/10.0\r\n
+    Host: ocsp.digicert.com\r\n
+    \r\n
+    [Response in frame: 343]
+    [Full request URI: http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBSAUQYBMq2awn1Rh6Doh%2FsBYgFV7gQUA95QNVbRTLtm8KPiGxvDl7I90VUCEAJ0LqoXyo4hxxe7H%2Fz9DKA%3D]
+
+No.     Time           Source                Destination           Protocol Length Info
+    538 29.573917      172.20.77.58          23.38.128.228         HTTP     288    GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBTrjrydRyt%2BApF3GSPypfHBxR5XtQQUs9tIpPmhxdiuNkHMEWNpYim8S8YCEAI5PUjXAkJafLQcAAsO18o%3D HTTP/1.1 
+
+Frame 538: 288 bytes on wire (2304 bits), 288 bytes captured (2304 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 23.38.128.228
+Transmission Control Protocol, Src Port: 52970, Dst Port: 80, Seq: 1, Ack: 1, Len: 234
+Hypertext Transfer Protocol
+    GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBTrjrydRyt%2BApF3GSPypfHBxR5XtQQUs9tIpPmhxdiuNkHMEWNpYim8S8YCEAI5PUjXAkJafLQcAAsO18o%3D HTTP/1.1\r\n
+    Connection: Keep-Alive\r\n
+    Accept: */*\r\n
+    User-Agent: Microsoft-CryptoAPI/10.0\r\n
+    Host: ocsp.digicert.com\r\n
+    \r\n
+    [Response in frame: 540]
+    [Full request URI: http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBTrjrydRyt%2BApF3GSPypfHBxR5XtQQUs9tIpPmhxdiuNkHMEWNpYim8S8YCEAI5PUjXAkJafLQcAAsO18o%3D]
+
+No.     Time           Source                Destination           Protocol Length Info
+    861 40.430816      172.20.77.58          23.38.128.228         HTTP     298    GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBQ50otx%2Fh0Ztl%2Bz8SiPI7wEWVxDlQQUTiJUIBiV5uNu5g%2F6%2BrkS7QYXjzkCEA77flR%2B3w%2FxBpruV2lte6A%3D HTTP/1.1 
+
+Frame 861: 298 bytes on wire (2384 bits), 298 bytes captured (2384 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 23.38.128.228
+Transmission Control Protocol, Src Port: 52970, Dst Port: 80, Seq: 235, Ack: 569, Len: 244
+Hypertext Transfer Protocol
+    GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBQ50otx%2Fh0Ztl%2Bz8SiPI7wEWVxDlQQUTiJUIBiV5uNu5g%2F6%2BrkS7QYXjzkCEA77flR%2B3w%2FxBpruV2lte6A%3D HTTP/1.1\r\n
+    Connection: Keep-Alive\r\n
+    Accept: */*\r\n
+    User-Agent: Microsoft-CryptoAPI/10.0\r\n
+    Host: ocsp.digicert.com\r\n
+    \r\n
+    [Response in frame: 863]
+    [Full request URI: http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBQ50otx%2Fh0Ztl%2Bz8SiPI7wEWVxDlQQUTiJUIBiV5uNu5g%2F6%2BrkS7QYXjzkCEA77flR%2B3w%2FxBpruV2lte6A%3D]
+
+No.     Time           Source                Destination           Protocol Length Info
+    998 47.960737      172.20.77.58          150.171.27.11         HTTP     707    GET /browsernetworktime/time/1/current?cup2key=2:RcMCQP1QE-_TnxRoAS8nNlXS6OYUvU_nWgIUvi-jXvw&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 HTTP/1.1 
+
+Frame 998: 707 bytes on wire (5656 bits), 707 bytes captured (5656 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 150.171.27.11
+Transmission Control Protocol, Src Port: 50151, Dst Port: 80, Seq: 1, Ack: 1, Len: 653
+Hypertext Transfer Protocol
+    GET /browsernetworktime/time/1/current?cup2key=2:RcMCQP1QE-_TnxRoAS8nNlXS6OYUvU_nWgIUvi-jXvw&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 HTTP/1.1\r\n
+    Host: edge.microsoft.com\r\n
+    Connection: keep-alive\r\n
+    Pragma: no-cache\r\n
+    Cache-Control: no-cache\r\n
+    Sec-Mesh-Client-Edge-Version: 142.0.3595.94\r\n
+    Sec-Mesh-Client-Edge-Channel: stable\r\n
+    Sec-Mesh-Client-OS: Windows\r\n
+    Sec-Mesh-Client-OS-Version: 10.0.26100\r\n
+    Sec-Mesh-Client-Arch: x86_64\r\n
+    Sec-Mesh-Client-WebView: 0\r\n
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\r\n
+    Accept-Encoding: gzip, deflate\r\n
+    \r\n
+    [Response in frame: 1159]
+    [Full request URI: http://edge.microsoft.com/browsernetworktime/time/1/current?cup2key=2:RcMCQP1QE-_TnxRoAS8nNlXS6OYUvU_nWgIUvi-jXvw&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855]
+
+No.     Time           Source                Destination           Protocol Length Info
+   2341 48.820381      172.20.77.58          199.232.214.172       HTTP     680    GET /filestreamingservice/files/bdc392b9-6b81-4aaa-b3ee-2fffd9562edb?P1=1764635448&P2=404&P3=2&P4=MJs%2fbk2yIuCkitSD1rLhjAoxoIkXTsQBtLZdW4TES6T9nwhbJGft2ayOY5LBAvMUjtUYxxQ9xAkeGKaUZppXTQ%3d%3d HTTP/1.1 
+
+Frame 2341: 680 bytes on wire (5440 bits), 680 bytes captured (5440 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 199.232.214.172
+Transmission Control Protocol, Src Port: 55625, Dst Port: 443, Seq: 1859, Ack: 7577, Len: 626
+Transport Layer Security
+Hypertext Transfer Protocol
+    GET /filestreamingservice/files/bdc392b9-6b81-4aaa-b3ee-2fffd9562edb?P1=1764635448&P2=404&P3=2&P4=MJs%2fbk2yIuCkitSD1rLhjAoxoIkXTsQBtLZdW4TES6T9nwhbJGft2ayOY5LBAvMUjtUYxxQ9xAkeGKaUZppXTQ%3d%3d HTTP/1.1\r\n
+    Host: msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com\r\n
+    Connection: keep-alive\r\n
+    MS-CV: 0Kt3xs04JsjUN4hI2t3wSa\r\n
+    Sec-Fetch-Site: none\r\n
+    Sec-Fetch-Mode: no-cors\r\n
+    Sec-Fetch-Dest: empty\r\n
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\r\n
+    Accept-Encoding: gzip, deflate, br, zstd\r\n
+    Accept-Language: en-US,en;q=0.9\r\n
+    \r\n
+    [Response in frame: 2361]
+    [Full request URI […]: https://msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/bdc392b9-6b81-4aaa-b3ee-2fffd9562edb?P1=1764635448&P2=404&P3=2&P4=MJs%2fbk2yIuCkitSD1rLhjAoxoIkXTsQBtLZdW4TES6T9nwhbJGft2ayOY5L]
+
+No.     Time           Source                Destination           Protocol Length Info
+  10890 69.364714      172.20.77.58          23.38.128.228         HTTP     294    GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBQ50otx%2Fh0Ztl%2Bz8SiPI7wEWVxDlQQUTiJUIBiV5uNu5g%2F6%2BrkS7QYXjzkCEApDqVCbATUviZV57HIIulA%3D HTTP/1.1 
+
+Frame 10890: 294 bytes on wire (2352 bits), 294 bytes captured (2352 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 23.38.128.228
+Transmission Control Protocol, Src Port: 57560, Dst Port: 80, Seq: 1, Ack: 1, Len: 240
+Hypertext Transfer Protocol
+    GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBQ50otx%2Fh0Ztl%2Bz8SiPI7wEWVxDlQQUTiJUIBiV5uNu5g%2F6%2BrkS7QYXjzkCEApDqVCbATUviZV57HIIulA%3D HTTP/1.1\r\n
+    Connection: Keep-Alive\r\n
+    Accept: */*\r\n
+    User-Agent: Microsoft-CryptoAPI/10.0\r\n
+    Host: ocsp.digicert.com\r\n
+    \r\n
+    [Response in frame: 10892]
+    [Full request URI: http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBQ50otx%2Fh0Ztl%2Bz8SiPI7wEWVxDlQQUTiJUIBiV5uNu5g%2F6%2BrkS7QYXjzkCEApDqVCbATUviZV57HIIulA%3D]
+
+No.     Time           Source                Destination           Protocol Length Info
+  10935 75.541079      172.20.77.58          199.232.214.172       HTTP     250    GET /msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?adb5535cea29f6e9 HTTP/1.1 
+
+Frame 10935: 250 bytes on wire (2000 bits), 250 bytes captured (2000 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 199.232.214.172
+Transmission Control Protocol, Src Port: 57561, Dst Port: 80, Seq: 1, Ack: 1, Len: 196
+Hypertext Transfer Protocol
+    GET /msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?adb5535cea29f6e9 HTTP/1.1\r\n
+    Connection: Keep-Alive\r\n
+    Accept: */*\r\n
+    User-Agent: Microsoft-CryptoAPI/10.0\r\n
+    Host: ctldl.windowsupdate.com\r\n
+    \r\n
+    [Response in frame: 10944]
+    [Full request URI: http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?adb5535cea29f6e9]
+
+No.     Time           Source                Destination           Protocol Length Info
+  25521 87.648901      172.20.77.58          199.232.214.172       HTTP     250    GET /msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?d021d58dd6649f9b HTTP/1.1 
+
+Frame 25521: 250 bytes on wire (2000 bits), 250 bytes captured (2000 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 199.232.214.172
+Transmission Control Protocol, Src Port: 59034, Dst Port: 80, Seq: 1, Ack: 1, Len: 196
+Hypertext Transfer Protocol
+    GET /msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?d021d58dd6649f9b HTTP/1.1\r\n
+    Connection: Keep-Alive\r\n
+    Accept: */*\r\n
+    User-Agent: Microsoft-CryptoAPI/10.0\r\n
+    Host: ctldl.windowsupdate.com\r\n
+    \r\n
+    [Response in frame: 25531]
+    [Full request URI: http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?d021d58dd6649f9b]
+
+No.     Time           Source                Destination           Protocol Length Info
+  30993 89.683239      172.20.77.58          199.232.214.172       HTTP     250    GET /msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?a8eee431a2942129 HTTP/1.1 
+
+Frame 30993: 250 bytes on wire (2000 bits), 250 bytes captured (2000 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 199.232.214.172
+Transmission Control Protocol, Src Port: 59035, Dst Port: 80, Seq: 1, Ack: 1, Len: 196
+Hypertext Transfer Protocol
+    GET /msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?a8eee431a2942129 HTTP/1.1\r\n
+    Connection: Keep-Alive\r\n
+    Accept: */*\r\n
+    User-Agent: Microsoft-CryptoAPI/10.0\r\n
+    Host: ctldl.windowsupdate.com\r\n
+    \r\n
+    [Response in frame: 31012]
+    [Full request URI: http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?a8eee431a2942129]
+
+No.     Time           Source                Destination           Protocol Length Info
+  68174 103.661291     172.20.77.58          150.171.74.11         HTTP     610    GET /captiveportal/generate_204 HTTP/1.1 
+
+Frame 68174: 610 bytes on wire (4880 bits), 610 bytes captured (4880 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 150.171.74.11
+Transmission Control Protocol, Src Port: 56249, Dst Port: 80, Seq: 1, Ack: 1, Len: 556
+Hypertext Transfer Protocol
+    GET /captiveportal/generate_204 HTTP/1.1\r\n
+    Host: edge-http.microsoft.com\r\n
+    Connection: keep-alive\r\n
+    Pragma: no-cache\r\n
+    Cache-Control: no-cache\r\n
+    Sec-Mesh-Client-Edge-Version: 142.0.3595.94\r\n
+    Sec-Mesh-Client-Edge-Channel: stable\r\n
+    Sec-Mesh-Client-OS: Windows\r\n
+    Sec-Mesh-Client-OS-Version: 10.0.26100\r\n
+    Sec-Mesh-Client-Arch: x86_64\r\n
+    Sec-Mesh-Client-WebView: 0\r\n
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\r\n
+    Accept-Encoding: gzip, deflate\r\n
+    Accept-Language: en-US,en;q=0.9\r\n
+    \r\n
+    [Response in frame: 68990]
+    [Full request URI: http://edge-http.microsoft.com/captiveportal/generate_204]
+
+No.     Time           Source                Destination           Protocol Length Info
+  73592 105.521383     172.20.77.58          40.126.14.160         HTTP     865    GET /Me.htm?v=3 HTTP/1.1 
+
+Frame 73592: 865 bytes on wire (6920 bits), 865 bytes captured (6920 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 40.126.14.160
+Transmission Control Protocol, Src Port: 58416, Dst Port: 443, Seq: 1947, Ack: 4008, Len: 811
+Transport Layer Security
+Hypertext Transfer Protocol
+    GET /Me.htm?v=3 HTTP/1.1\r\n
+    Host: login.live.com\r\n
+    Connection: keep-alive\r\n
+    sec-ch-ua-platform: "Windows"\r\n
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0 OS/10.0.26100\r\n
+    sec-ch-ua: "Chromium";v="142", "Microsoft Edge";v="142", "Not_A Brand";v="99"\r\n
+    Sec-Purpose: prefetch\r\n
+    sec-ch-ua-mobile: ?0\r\n
+    Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7\r\n
+    X-Edge-Shopping-Flag: 0\r\n
+    Sec-Fetch-Site: cross-site\r\n
+    Sec-Fetch-Mode: no-cors\r\n
+    Sec-Fetch-Dest: empty\r\n
+    Sec-Fetch-Storage-Access: active\r\n
+    Referer: https://login.microsoftonline.com/\r\n
+    Accept-Encoding: gzip, deflate, br, zstd\r\n
+    Accept-Language: en-US,en;q=0.9\r\n
+    \r\n
+    [Response in frame: 74579]
+    [Full request URI: https://login.live.com/Me.htm?v=3]
+
+No.     Time           Source                Destination           Protocol Length Info
+  75738 105.926649     172.20.77.58          20.190.167.66         HTTP     449    GET /.well-known/webauthn HTTP/1.1 
+
+Frame 75738: 449 bytes on wire (3592 bits), 449 bytes captured (3592 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 20.190.167.66
+Transmission Control Protocol, Src Port: 53264, Dst Port: 443, Seq: 2571, Ack: 5933, Len: 395
+Transport Layer Security
+Hypertext Transfer Protocol
+    GET /.well-known/webauthn HTTP/1.1\r\n
+    Host: login.microsoft.com\r\n
+    Connection: keep-alive\r\n
+    Sec-Fetch-Site: none\r\n
+    Sec-Fetch-Mode: no-cors\r\n
+    Sec-Fetch-Dest: empty\r\n
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\r\n
+    Accept-Encoding: gzip, deflate, br, zstd\r\n
+    Accept-Language: en-US,en;q=0.9\r\n
+    \r\n
+    [Response in frame: 75793]
+    [Full request URI: https://login.microsoft.com/.well-known/webauthn]
+
+No.     Time           Source                Destination           Protocol Length Info
+  87182 108.691441     172.20.77.58          40.126.14.160         HTTP     795    GET /Me.htm?v=3 HTTP/1.1 
+
+Frame 87182: 795 bytes on wire (6360 bits), 795 bytes captured (6360 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 40.126.14.160
+Transmission Control Protocol, Src Port: 55882, Dst Port: 443, Seq: 4795, Ack: 4008, Len: 741
+[3 Reassembled TCP Segments (3621 bytes): #87180(1440), #87181(1440), #87182(741)]
+Transport Layer Security
+Hypertext Transfer Protocol
+    GET /Me.htm?v=3 HTTP/1.1\r\n
+    Host: login.live.com\r\n
+    Connection: keep-alive\r\n
+    sec-ch-ua: "Chromium";v="142", "Microsoft Edge";v="142", "Not_A Brand";v="99"\r\n
+    sec-ch-ua-mobile: ?0\r\n
+    sec-ch-ua-platform: "Windows"\r\n
+    Upgrade-Insecure-Requests: 1\r\n
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\r\n
+    Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7\r\n
+    X-Edge-Shopping-Flag: 0\r\n
+    Sec-Fetch-Site: cross-site\r\n
+    Sec-Fetch-Mode: navigate\r\n
+    Sec-Fetch-Dest: iframe\r\n
+    Sec-Fetch-Storage-Access: active\r\n
+    Referer: https://login.microsoftonline.com/\r\n
+    Accept-Encoding: gzip, deflate, br, zstd\r\n
+    Accept-Language: en-US,en;q=0.9\r\n
+     […]Cookie: DIDC=ct%3D1764030707%26hashalg%3DSHA256%26bver%3D55%26appid%3DDefault%26da%3D%253CEncryptedData%2520xmlns%253D%2522http://www.w3.org/2001/04/xmlenc%2523%2522%2520Id%253D%2522devicesoftware%2522%2520Type%253D%2522http://www.w3
+    \r\n
+    [Response in frame: 87676]
+    [Full request URI: https://login.live.com/Me.htm?v=3]
+
+No.     Time           Source                Destination           Protocol Length Info
+  87467 108.811139     172.20.77.58          92.223.116.253        HTTP     479    GET /filestreamingservice/files/fb6dd03b-99d7-4cc8-a878-91c8e655c2d3?P1=1764098509&P2=404&P3=2&P4=bXynSmCX%2bpufhcSOhAe12hkjGs5uodwDM%2fUB04tXodVcqWdZF9poRmYLUW7nNRd1MkUhbVUuJcwx83DgtEnS9w%3d%3d HTTP/1.1 
+
+Frame 87467: 479 bytes on wire (3832 bits), 479 bytes captured (3832 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 92.223.116.253
+Transmission Control Protocol, Src Port: 60777, Dst Port: 80, Seq: 354, Ack: 755, Len: 425
+Hypertext Transfer Protocol
+    GET /filestreamingservice/files/fb6dd03b-99d7-4cc8-a878-91c8e655c2d3?P1=1764098509&P2=404&P3=2&P4=bXynSmCX%2bpufhcSOhAe12hkjGs5uodwDM%2fUB04tXodVcqWdZF9poRmYLUW7nNRd1MkUhbVUuJcwx83DgtEnS9w%3d%3d HTTP/1.1\r\n
+    Connection: Keep-Alive\r\n
+    Accept: */*\r\n
+    Accept-Encoding: identity\r\n
+    If-Unmodified-Since: Thu, 07 Nov 2024 20:24:12 GMT\r\n
+    Range: bytes=0-1119\r\n
+    User-Agent: Microsoft BITS/7.8\r\n
+    Host: msedge.b.tlu.dl.delivery.mp.microsoft.com\r\n
+    \r\n
+    [Response in frame: 88137]
+    [Full request URI […]: http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb6dd03b-99d7-4cc8-a878-91c8e655c2d3?P1=1764098509&P2=404&P3=2&P4=bXynSmCX%2bpufhcSOhAe12hkjGs5uodwDM%2fUB04tXodVcqWdZF9poRmYLUW7nNRd1MkUhb]
+
+No.     Time           Source                Destination           Protocol Length Info
+  87912 108.960708     172.20.77.58          40.126.14.160         HTTP     917    GET /Me.srf?wa=wsignin1.0&idpflag=indirect&id=12&wreply=https%3a%2f%2flogin.microsoftonline.com&owreply=https%3a%2f%2fsupport.microsoft.com%2fsignin-oidc HTTP/1.1 
+
+Frame 87912: 917 bytes on wire (7336 bits), 917 bytes captured (7336 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 40.126.14.160
+Transmission Control Protocol, Src Port: 55882, Dst Port: 443, Seq: 8416, Ack: 6259, Len: 863
+[3 Reassembled TCP Segments (3743 bytes): #87910(1440), #87911(1440), #87912(863)]
+Transport Layer Security
+Hypertext Transfer Protocol
+    GET /Me.srf?wa=wsignin1.0&idpflag=indirect&id=12&wreply=https%3a%2f%2flogin.microsoftonline.com&owreply=https%3a%2f%2fsupport.microsoft.com%2fsignin-oidc HTTP/1.1\r\n
+    Host: login.live.com\r\n
+    Connection: keep-alive\r\n
+    sec-ch-ua: "Chromium";v="142", "Microsoft Edge";v="142", "Not_A Brand";v="99"\r\n
+    sec-ch-ua-mobile: ?0\r\n
+    sec-ch-ua-platform: "Windows"\r\n
+    Upgrade-Insecure-Requests: 1\r\n
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0\r\n
+    Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7\r\n
+    X-Edge-Shopping-Flag: 0\r\n
+    Sec-Fetch-Site: cross-site\r\n
+    Sec-Fetch-Mode: navigate\r\n
+    Sec-Fetch-Dest: iframe\r\n
+    Sec-Fetch-Storage-Access: active\r\n
+    Referer: https://login.microsoftonline.com/\r\n
+    Accept-Encoding: gzip, deflate, br, zstd\r\n
+    Accept-Language: en-US,en;q=0.9\r\n
+     […]Cookie: DIDC=ct%3D1764030708%26hashalg%3DSHA256%26bver%3D55%26appid%3DDefault%26da%3D%253CEncryptedData%2520xmlns%253D%2522http://www.w3.org/2001/04/xmlenc%2523%2522%2520Id%253D%2522devicesoftware%2522%2520Type%253D%2522http://www.w3
+    \r\n
+    [Response in frame: 88478]
+    [Full request URI: https://login.live.com/Me.srf?wa=wsignin1.0&idpflag=indirect&id=12&wreply=https%3a%2f%2flogin.microsoftonline.com&owreply=https%3a%2f%2fsupport.microsoft.com%2fsignin-oidc]
+
+No.     Time           Source                Destination           Protocol Length Info
+  99885 113.916583     172.20.77.58          92.223.116.253        HTTP     482    GET /filestreamingservice/files/fb6dd03b-99d7-4cc8-a878-91c8e655c2d3?P1=1764098509&P2=404&P3=2&P4=bXynSmCX%2bpufhcSOhAe12hkjGs5uodwDM%2fUB04tXodVcqWdZF9poRmYLUW7nNRd1MkUhbVUuJcwx83DgtEnS9w%3d%3d HTTP/1.1 
+
+Frame 99885: 482 bytes on wire (3856 bits), 482 bytes captured (3856 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 92.223.116.253
+Transmission Control Protocol, Src Port: 60777, Dst Port: 80, Seq: 779, Ack: 2654, Len: 428
+Hypertext Transfer Protocol
+    GET /filestreamingservice/files/fb6dd03b-99d7-4cc8-a878-91c8e655c2d3?P1=1764098509&P2=404&P3=2&P4=bXynSmCX%2bpufhcSOhAe12hkjGs5uodwDM%2fUB04tXodVcqWdZF9poRmYLUW7nNRd1MkUhbVUuJcwx83DgtEnS9w%3d%3d HTTP/1.1\r\n
+    Connection: Keep-Alive\r\n
+    Accept: */*\r\n
+    Accept-Encoding: identity\r\n
+    If-Unmodified-Since: Thu, 07 Nov 2024 20:24:12 GMT\r\n
+    Range: bytes=1120-1354\r\n
+    User-Agent: Microsoft BITS/7.8\r\n
+    Host: msedge.b.tlu.dl.delivery.mp.microsoft.com\r\n
+    \r\n
+    [Response in frame: 99887]
+    [Full request URI […]: http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb6dd03b-99d7-4cc8-a878-91c8e655c2d3?P1=1764098509&P2=404&P3=2&P4=bXynSmCX%2bpufhcSOhAe12hkjGs5uodwDM%2fUB04tXodVcqWdZF9poRmYLUW7nNRd1MkUhb]
+
+No.     Time           Source                Destination           Protocol Length Info
+  99969 124.774302     172.20.77.58          92.223.116.253        HTTP     460    GET /filestreamingservice/files/ddbf4492-d475-4fe4-bcde-6cbac56f6034?P1=1764098509&P2=404&P3=2&P4=Wvle8yrRe3%2bHH1Xe2S9NU1uRywkq4PQSEHX89de8s%2fgDJw1kE4Pcwudk0AFRwyH6Qdlu67FRVZWQ%2bOxkr7meMA%3d%3d HTTP/1.1 
+
+Frame 99969: 460 bytes on wire (3680 bits), 460 bytes captured (3680 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 92.223.116.253
+Transmission Control Protocol, Src Port: 60777, Dst Port: 80, Seq: 1562, Ack: 4423, Len: 406
+Hypertext Transfer Protocol
+    GET /filestreamingservice/files/ddbf4492-d475-4fe4-bcde-6cbac56f6034?P1=1764098509&P2=404&P3=2&P4=Wvle8yrRe3%2bHH1Xe2S9NU1uRywkq4PQSEHX89de8s%2fgDJw1kE4Pcwudk0AFRwyH6Qdlu67FRVZWQ%2bOxkr7meMA%3d%3d HTTP/1.1\r\n
+    Connection: Keep-Alive\r\n
+    Accept: */*\r\n
+    Accept-Encoding: identity\r\n
+    If-Unmodified-Since: Fri, 19 Sep 2025 02:34:50 GMT\r\n
+    User-Agent: Microsoft BITS/7.8\r\n
+    Host: msedge.b.tlu.dl.delivery.mp.microsoft.com\r\n
+    \r\n
+    [Response in frame: 99972]
+    [Full request URI […]: http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/ddbf4492-d475-4fe4-bcde-6cbac56f6034?P1=1764098509&P2=404&P3=2&P4=Wvle8yrRe3%2bHH1Xe2S9NU1uRywkq4PQSEHX89de8s%2fgDJw1kE4Pcwudk0AFRwyH6Qdlu6]
+
+No.     Time           Source                Destination           Protocol Length Info
+ 100015 129.778519     172.20.77.58          199.232.214.172       HTTP     250    GET /msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?950c60a1eed74ed9 HTTP/1.1 
+
+Frame 100015: 250 bytes on wire (2000 bits), 250 bytes captured (2000 bits) on interface \Device\NPF_{C145201E-C7A0-46EC-B14F-BE88BCCA5390}, id 0
+Ethernet II, Src: Microsoft_6d:85:4f (00:15:5d:6d:85:4f), Dst: Microsoft_20:03:e2 (00:15:5d:20:03:e2)
+Internet Protocol Version 4, Src: 172.20.77.58, Dst: 199.232.214.172
+Transmission Control Protocol, Src Port: 50896, Dst Port: 80, Seq: 1, Ack: 1, Len: 196
+Hypertext Transfer Protocol
+    GET /msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?950c60a1eed74ed9 HTTP/1.1\r\n
+    Connection: Keep-Alive\r\n
+    Accept: */*\r\n
+    User-Agent: Microsoft-CryptoAPI/10.0\r\n
+    Host: ctldl.windowsupdate.com\r\n
+    \r\n
+    [Response in frame: 100023]
+    [Full request URI: http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?950c60a1eed74ed9]

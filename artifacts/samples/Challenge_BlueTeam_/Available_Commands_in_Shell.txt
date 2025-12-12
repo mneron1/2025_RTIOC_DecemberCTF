@@ -1,0 +1,509 @@
+lrwxrwxrwx 1 root root                   8 2013-04-05 12:06 2to3 -> /usr/bin/2to3-2.7
+-rwxr-xr-x 1 root root                  96 2013-04-05 12:06 2to3-2.7
+-rwxr-xr-x 1 root root              538900 2013-04-05 12:01 VBoxClient
+lrwxrwxrwx 1 root root                   1 2013-04-05 12:00 X11 -> /usr/bin
+-rwxr-xr-x 1 root root             2027892 2013-04-05 12:01 Xorg
+-rwxr-xr-x 1 root root               34356 2013-04-05 11:52 [
+-rwxr-xr-x 1 root root               15652 2013-04-05 11:53 acpi
+-rwxr-xr-x 1 root root                9880 2013-04-05 11:53 acpi_listen
+-rwxr-xr-x 1 root root                5504 2013-04-05 11:52 addpart
+-rwxr-xr-x 1 root root               22672 2013-04-05 12:00 addr2line
+lrwxrwxrwx 1 root root                   6 2013-04-05 11:52 apropos -> /usr/bin/whatis
+-rwxr-xr-x 1 root root              112600 2013-04-05 11:52 apt-cache
+-rwxr-xr-x 1 root root               22128 2013-04-05 11:52 apt-cdrom
+-rwxr-xr-x 1 root root               18004 2013-04-05 11:52 apt-config
+-rwxr-xr-x 1 root root               22180 2013-04-05 11:52 apt-extracttemplates
+-rwxr-xr-x 1 root root              186536 2013-04-05 11:52 apt-ftparchive
+-rwxr-xr-x 1 root root              194932 2013-04-05 11:52 apt-get
+-rwxr-xr-x 1 root root                7313 2013-04-05 11:52 apt-key
+-rwxr-xr-x 1 root root               46844 2013-04-05 11:52 apt-mark
+-rwxr-xr-x 1 root root               26200 2013-04-05 11:52 apt-sortpkgs
+lrwxrwxrwx 1 root root                  26 2013-04-05 11:52 aptitude -> /usr/bin/aptitude-curses
+-rwxr-xr-x 1 root root                1939 2013-04-05 11:52 aptitude-create-state-bundle
+-rwxr-xr-x 1 root root             4397816 2013-04-05 11:52 aptitude-curses
+-rwxr-xr-x 1 root root                2850 2013-04-05 11:52 aptitude-run-state-bundle
+-rwxr-xr-x 1 root root               51316 2013-04-05 12:00 ar
+-rwxr-xr-x 1 root root               30256 2013-04-05 11:52 arch
+-rwxr-xr-x 1 root root              335176 2013-04-05 12:00 as
+lrwxrwxrwx 1 root root                  21 2013-04-05 11:52 awk -> /usr/bin/mawk
+-rwxr-xr-x 1 root root               38468 2013-04-05 11:52 base64
+-rwxr-xr-x 1 root root               30252 2013-04-05 11:52 basename
+-rwxr-xr-x 1 root root                6966 2013-04-05 11:52 bashbug
+-rwxr-xr-x 1 root root                5760 2013-04-05 12:01 bdftopcf
+-rwxr-xr-x 1 root root                6004 2013-04-05 12:01 bdftruncate
+-rwxr-xr-x 1 root root                9640 2013-04-05 11:52 bsd-from
+-rwxr-sr-x 1 root tty                 9708 2013-04-05 11:52 bsd-write
+-rwxr-xr-x 1 root root               34592 2013-04-05 12:02 buildhash
+-rwxr-xr-x 1 root root               20092 2013-04-05 12:00 c++filt
+lrwxrwxrwx 1 root root                  21 2013-04-05 12:01 c89 -> /usr/bin/c89-gcc
+-rwxr-xr-x 1 root root                 428 2013-04-05 12:01 c89-gcc
+lrwxrwxrwx 1 root root                  21 2013-04-05 12:01 c99 -> /usr/bin/c99-gcc
+-rwxr-xr-x 1 root root                 454 2013-04-05 12:01 c99-gcc
+lrwxrwxrwx 1 root root                   4 2013-04-05 11:52 cal -> /usr/bin/ncal
+-rwxr-xr-x 1 root root               26608 2013-04-05 11:52 calendar
+lrwxrwxrwx 1 root root                   3 2013-04-05 11:52 captoinfo -> /usr/bin/tic
+-rwxr-xr-x 1 root root                3400 2013-04-05 11:52 catchsegv
+-rwxr-xr-x 1 root root               30268 2013-04-05 11:52 catman
+lrwxrwxrwx 1 root root                  20 2013-04-05 12:01 cc -> /usr/bin/gcc-4.7
+-rwxr-sr-x 1 root shadow             49364 2013-04-05 11:52 chage
+-rwxr-xr-x 1 root root                9740 2013-04-05 11:52 chattr
+-rwxr-xr-x 1 root root               63168 2013-04-05 11:52 chcon
+-rwsr-xr-x 1 root root               44564 2013-04-05 11:52 chfn
+-rwxr-xr-x 1 root root                3676 2013-04-05 11:52 chkdupexe
+-rwxr-xr-x 1 root root               17904 2013-04-05 11:52 chrt
+-rwsr-xr-x 1 root root               35892 2013-04-05 11:52 chsh
+-rwxr-xr-x 1 root root              147645 2013-04-05 11:53 ckbcomp
+-rwxr-xr-x 1 root root               30256 2013-04-05 11:52 cksum
+-rwxr-xr-x 1 root root                5552 2013-04-05 11:52 clear
+-rwxr-xr-x 1 root root                9632 2013-04-05 11:52 clear_console
+-rwxr-xr-x 1 root root               46696 2013-04-05 11:52 cmp
+-rwxr-xr-x 1 root root                9616 2013-04-05 11:53 codepage
+-rwxr-xr-x 1 root root                9636 2013-04-05 11:52 col
+-rwxr-xr-x 1 root root                9620 2013-04-05 11:52 colcrt
+-rwxr-xr-x 1 root root                5520 2013-04-05 11:52 colrm
+-rwxr-xr-x 1 root root                9688 2013-04-05 11:52 column
+-rwxr-xr-x 1 root root               34376 2013-04-05 11:52 comm
+lrwxrwxrwx 1 root root                  11 2013-04-05 12:06 compose -> /usr/bin/run-mailcap
+lrwxrwxrwx 1 root root                   7 2013-04-05 12:00 cpp -> /usr/bin/cpp-4.7
+-rwxr-xr-x 1 root root              306436 2013-04-05 12:01 cpp-4.6
+-rwxr-xr-x 1 root root              526324 2013-04-05 12:00 cpp-4.7
+-rwxr-sr-x 1 root systemd-timesync   34760 2013-04-05 11:52 crontab
+-rwxr-xr-x 1 root root               50832 2013-04-05 11:52 csplit
+lrwxrwxrwx 1 root root                   6 2013-04-05 11:52 ctstat -> /usr/bin/lnstat
+-rwxr-xr-x 1 root root                4096 2015-05-06 15:09 curl
+-rwxr-xr-x 1 root root               42592 2013-04-05 11:52 cut
+-rwxr-xr-x 1 root root               13796 2013-04-05 12:01 cvt
+-rwxr-xr-x 1 root root                9896 2013-04-05 11:52 ddate
+-rwxr-xr-x 1 root root                9616 2013-04-05 11:53 deallocvt
+-rwxr-xr-x 1 root root                2859 2013-04-05 11:52 debconf
+-rwxr-xr-x 1 root root               11541 2013-04-05 11:52 debconf-apt-progress
+-rwxr-xr-x 1 root root                 608 2013-04-05 11:52 debconf-communicate
+-rwxr-xr-x 1 root root                1719 2013-04-05 11:52 debconf-copydb
+-rwxr-xr-x 1 root root                 647 2013-04-05 11:52 debconf-escape
+-rwxr-xr-x 1 root root                2978 2013-04-05 11:52 debconf-set-selections
+-rwxr-xr-x 1 root root                1827 2013-04-05 11:52 debconf-show
+-rwxr-xr-x 1 root root                3784 2013-04-05 12:02 defmt-c
+-rwxr-xr-x 1 root root                3600 2013-04-05 12:02 defmt-sh
+-rwxr-xr-x 1 root root                5500 2013-04-05 11:52 delpart
+-rwxr-xr-x 1 root root                4108 2013-04-05 12:01 dh_dkms
+-rwxr-xr-x 1 root root               31211 2013-04-05 12:06 dh_python2
+-rwxr-xr-x 1 root root              116472 2013-04-05 11:52 diff
+-rwxr-xr-x 1 root root               59028 2013-04-05 11:52 diff3
+-rwxr-xr-x 1 root root               38480 2013-04-05 11:52 dircolors
+-rwxr-xr-x 1 root root               30252 2013-04-05 11:52 dirname
+-rwxr-xr-x 1 root root                2904 2013-04-05 11:58 discover-config
+-rwxr-xr-x 1 root root              260208 2013-04-05 11:52 dpkg
+-rwxr-xr-x 1 root root              120848 2013-04-05 11:52 dpkg-deb
+-rwxr-xr-x 1 root root              124912 2013-04-05 11:52 dpkg-divert
+-rwxr-xr-x 1 root root                8048 2013-04-05 11:52 dpkg-maintscript-helper
+-rwxr-xr-x 1 root root              128904 2013-04-05 11:52 dpkg-query
+-rwxr-xr-x 1 root root               59184 2013-04-05 11:52 dpkg-split
+-rwxr-xr-x 1 root root               50936 2013-04-05 11:52 dpkg-statoverride
+-rwxr-xr-x 1 root root               63212 2013-04-05 11:52 dpkg-trigger
+-rwxr-xr-x 1 root root              108284 2013-04-05 11:52 du
+lrwxrwxrwx 1 root root                  13 2013-04-05 11:53 dumpkeys -> /bin/dumpkeys
+lrwxrwxrwx 1 root root                  11 2013-04-05 12:06 edit -> /usr/bin/run-mailcap
+lrwxrwxrwx 1 root root                  24 2013-04-05 11:52 editor -> /bin/nano
+-rwxr-xr-x 1 root root               30352 2013-04-05 11:53 eject
+-rwxr-xr-x 1 root root               24132 2013-04-05 12:00 elfedit
+-rwxr-xr-x 1 root root               30256 2013-04-05 11:52 env
+-rwxr-xr-x 1 root root               30288 2013-04-05 12:02 envsubst
+-rwxr-xr-x 1 root root              136596 2013-04-05 11:52 eqn
+lrwxrwxrwx 1 root root                  20 2013-04-05 11:52 ex -> /usr/bin/vim.tiny
+-rwxr-xr-x 1 root root               30280 2013-04-05 11:52 expand
+-rwxr-sr-x 1 root shadow             18168 2013-04-05 11:52 expiry
+-rwxr-xr-x 1 root root               42572 2013-04-05 11:52 expr
+-rwxr-xr-x 1 root root               34356 2013-04-05 11:52 factor
+-rwxr-xr-x 1 root root               18112 2013-04-05 11:52 faillog
+-rwxr-xr-x 1 root root               18232 2013-04-05 12:01 faked-sysv
+-rwxr-xr-x 1 root root               22344 2013-04-05 12:01 faked-tcp
+lrwxrwxrwx 1 root root                  26 2013-04-05 12:01 fakeroot -> /usr/bin/fakeroot-sysv
+-rwxr-xr-x 1 root root                3893 2013-04-05 12:01 fakeroot-sysv
+-rwxr-xr-x 1 root root                3888 2013-04-05 12:01 fakeroot-tcp
+-rwxr-xr-x 1 root root               13760 2013-04-05 11:52 fallocate
+-rwxr-xr-x 1 root root               13796 2013-04-05 12:06 file
+-rwxr-xr-x 1 root root              162424 2013-04-05 11:52 find
+-rwxr-xr-x 1 root root               11985 2013-04-05 12:02 findaffix
+-rwxr-xr-x 1 root root                9672 2013-04-05 11:52 flock
+-rwxr-xr-x 1 root root               34372 2013-04-05 11:52 fmt
+-rwxr-xr-x 1 root root               30276 2013-04-05 11:52 fold
+-rwxr-xr-x 1 root root               31752 2013-04-05 12:01 fonttosfnt
+-rwxr-xr-x 1 root root               13772 2013-04-05 11:52 free
+lrwxrwxrwx 1 root root                  22 2013-04-05 11:52 from -> /usr/bin/bsd-from
+lrwxrwxrwx 1 root root                   7 2013-04-05 12:01 gcc -> /usr/bin/gcc-4.7
+-rwxr-xr-x 1 root root              306436 2013-04-05 12:01 gcc-4.6
+-rwxr-xr-x 1 root root              525396 2013-04-05 12:00 gcc-4.7
+lrwxrwxrwx 1 root root                  10 2013-04-05 12:01 gcc-ar -> /usr/bin/gcc-ar-4.7
+-rwxr-xr-x 1 root root               19448 2013-04-05 12:00 gcc-ar-4.7
+lrwxrwxrwx 1 root root                  10 2013-04-05 12:01 gcc-nm -> /usr/bin/gcc-nm-4.7
+-rwxr-xr-x 1 root root               19416 2013-04-05 12:00 gcc-nm-4.7
+lrwxrwxrwx 1 root root                  14 2013-04-05 12:01 gcc-ranlib -> /usr/bin/gcc-ranlib-4.7
+-rwxr-xr-x 1 root root               19416 2013-04-05 12:00 gcc-ranlib-4.7
+lrwxrwxrwx 1 root root                   8 2013-04-05 12:01 gcov -> /usr/bin/gcov-4.7
+-rwxr-xr-x 1 root root               28796 2013-04-05 12:01 gcov-4.6
+-rwxr-xr-x 1 root root              207796 2013-04-05 12:00 gcov-4.7
+-rwxr-xr-x 1 root root               17936 2013-04-05 12:01 gencat
+lrwxrwxrwx 1 root root                   3 2013-04-05 11:52 geqn -> /usr/bin/eqn
+-rwxr-xr-x 1 root root               17840 2013-04-05 11:52 getconf
+-rwxr-xr-x 1 root root               18308 2013-04-05 11:52 getent
+-rwxr-xr-x 1 root root                9616 2013-04-05 11:53 getkeycodes
+-rwxr-xr-x 1 root root               13772 2013-04-05 11:52 getopt
+-rwxr-xr-x 1 root root               30276 2013-04-05 12:02 gettext
+-rwxr-xr-x 1 root root                4655 2013-04-05 12:02 gettext.sh
+-rwxr-xr-x 1 root root               35496 2013-04-05 11:52 ginstall-info
+lrwxrwxrwx 1 root root                   7 2013-04-05 12:00 gold -> /usr/bin/ld.gold
+-rwsr-xr-x 1 root root               66196 2013-04-05 11:52 gpasswd
+-rwxr-xr-x 1 root root              992972 2013-04-05 11:52 gpg
+-rwxr-xr-x 1 root root                3303 2013-04-05 11:52 gpg-zip
+-rwxr-xr-x 1 root root               50948 2013-04-05 11:52 gpgsplit
+-rwxr-xr-x 1 root root              358652 2013-04-05 11:52 gpgv
+lrwxrwxrwx 1 root root                   3 2013-04-05 11:52 gpic -> /usr/bin/pic
+-rwxr-xr-x 1 root root               93392 2013-04-05 12:00 gprof
+-rwxr-xr-x 1 root root               75188 2013-04-05 11:52 groff
+-rwxr-xr-x 1 root root                9267 2013-04-05 11:52 grog
+-rwxr-xr-x 1 root root              132884 2013-04-05 11:52 grops
+-rwxr-xr-x 1 root root               91540 2013-04-05 11:52 grotty
+-rwxr-xr-x 1 root root               30280 2013-04-05 11:52 groups
+-rwxr-xr-x 1 root root               11232 2013-04-05 12:02 grub-bin2h
+-rwxr-xr-x 1 root root               92636 2013-04-05 12:02 grub-editenv
+-rwxr-xr-x 1 root root              364720 2013-04-05 12:02 grub-fstest
+-rwxr-xr-x 1 root root                 206 2013-04-05 12:02 grub-kbdcomp
+-rwxr-xr-x 1 root root               72432 2013-04-05 12:02 grub-menulst2cfg
+-rwxr-xr-x 1 root root               89724 2013-04-05 12:02 grub-mkfont
+-rwxr-xr-x 1 root root              124308 2013-04-05 12:02 grub-mkimage
+-rwxr-xr-x 1 root root               63836 2013-04-05 12:02 grub-mklayout
+-rwxr-xr-x 1 root root               72128 2013-04-05 12:02 grub-mkpasswd-pbkdf2
+-rwxr-xr-x 1 root root               59484 2013-04-05 12:02 grub-mkrelpath
+-rwxr-xr-x 1 root root               10237 2013-04-05 12:02 grub-mkrescue
+-rwxr-xr-x 1 root root              363056 2013-04-05 12:02 grub-mount
+lrwxrwxrwx 1 root root                  34 2013-04-05 12:02 grub-ntldr-img -> /usr/lib/grub/i386-pc/grub-ntldr-img
+-rwxr-xr-x 1 root root               84092 2013-04-05 12:02 grub-script-check
+lrwxrwxrwx 1 root root                   3 2013-04-05 11:52 gtbl -> /usr/bin/tbl
+-rwxr-xr-x 1 root root               13788 2013-04-05 12:01 gtf
+lrwxrwxrwx 1 root root                   7 2013-04-05 11:52 hd -> /usr/bin/hexdump
+-rwxr-xr-x 1 root root               42572 2013-04-05 11:52 head
+-rwxr-xr-x 1 root root                2480 2013-04-05 11:52 helpztags
+-rwxr-xr-x 1 root root               26156 2013-04-05 11:52 hexdump
+-rwxr-xr-x 1 root root               26152 2013-04-05 11:52 hostid
+lrwxrwxrwx 1 root root                   7 2013-04-05 11:52 i386 -> /usr/bin/setarch
+lrwxrwxrwx 1 root root                   7 2013-04-05 12:00 i486-linux-gnu-cpp -> /usr/bin/cpp-4.7
+lrwxrwxrwx 1 root root                   7 2013-04-05 12:01 i486-linux-gnu-cpp-4.6 -> /usr/bin/cpp-4.6
+lrwxrwxrwx 1 root root                   7 2013-04-05 12:00 i486-linux-gnu-cpp-4.7 -> /usr/bin/cpp-4.7
+lrwxrwxrwx 1 root root                   7 2013-04-05 12:01 i486-linux-gnu-gcc -> /usr/bin/gcc-4.7
+lrwxrwxrwx 1 root root                   7 2013-04-05 12:01 i486-linux-gnu-gcc-4.6 -> /usr/bin/gcc-4.6
+lrwxrwxrwx 1 root root                   7 2013-04-05 12:00 i486-linux-gnu-gcc-4.7 -> /usr/bin/gcc-4.7
+lrwxrwxrwx 1 root root                  10 2013-04-05 12:00 i486-linux-gnu-gcc-ar-4.7 -> /usr/bin/gcc-ar-4.7
+lrwxrwxrwx 1 root root                  10 2013-04-05 12:00 i486-linux-gnu-gcc-nm-4.7 -> /usr/bin/gcc-nm-4.7
+lrwxrwxrwx 1 root root                  14 2013-04-05 12:00 i486-linux-gnu-gcc-ranlib-4.7 -> /usr/bin/gcc-ranlib-4.7
+-rwxr-xr-x 1 root root               30496 2013-04-05 12:02 icombine
+-rwxr-xr-x 1 root root               50884 2013-04-05 11:52 iconv
+-rwxr-xr-x 1 root root               34396 2013-04-05 11:52 id
+-rwxr-xr-x 1 root root               13816 2013-04-05 12:02 ijoin
+-rwxr-xr-x 1 root root              172920 2013-04-05 11:52 info
+lrwxrwxrwx 1 root root                  29 2013-04-05 11:52 infobrowser -> /usr/bin/info
+-rwxr-xr-x 1 root root               50884 2013-04-05 11:52 infocmp
+-rwxr-xr-x 1 root root               19184 2013-04-05 11:52 infokey
+lrwxrwxrwx 1 root root                   3 2013-04-05 11:52 infotocap -> /usr/bin/tic
+-rwxr-xr-x 1 root root              112564 2013-04-05 11:52 install
+-rwxr-xr-x 1 root root                1216 2013-04-05 11:52 install-info
+-rwxr-xr-x 1 root root              260472 2013-04-05 12:01 install-menu
+-rwxr-xr-x 1 root root               17900 2013-04-05 11:52 ionice
+-rwxr-xr-x 1 root root                9640 2013-04-05 11:52 ipcmk
+-rwxr-xr-x 1 root root                9644 2013-04-05 11:52 ipcrm
+-rwxr-xr-x 1 root root               21928 2013-04-05 11:52 ipcs
+lrwxrwxrwx 1 root root                  19 2013-04-05 11:52 iptables-xml -> /sbin/xtables-multi
+-rwxr-xr-x 1 root root                5632 2013-04-05 11:52 ischroot
+-rwxr-xr-x 1 root root               88048 2013-04-05 12:02 ispell
+-rwxr-xr-x 1 root root                7148 2013-04-05 12:02 ispell-wrapper
+-rwxr-xr-x 1 root root               42604 2013-04-05 11:52 join
+-rwxr-xr-x 1 root root                9624 2013-04-05 11:53 kbdinfo
+-rwxr-xr-x 1 root root                4096 2014-07-30 15:39 killall
+-rwxr-xr-x 1 root root               17944 2013-04-05 11:52 last
+lrwxrwxrwx 1 root root                   4 2013-04-05 11:52 lastb -> /usr/bin/last
+-rwxr-xr-x 1 root root               13828 2013-04-05 11:52 lastlog
+-rwxr-xr-x 1 root root                7812 2013-04-05 12:02 lcf
+lrwxrwxrwx 1 root root                   6 2013-04-05 12:00 ld -> /usr/bin/ld.bfd
+-rwxr-xr-x 1 root root              827668 2013-04-05 12:00 ld.bfd
+-rwxr-xr-x 1 root root             1731008 2013-04-05 12:00 ld.gold
+-rwxr-xr-x 1 root root                5272 2013-04-05 11:52 ldd
+-rwxr-xr-x 1 root root               79476 2013-04-05 11:52 lexgrog
+lrwxrwxrwx 1 root root                  21 2013-04-05 11:52 lft -> /usr/bin/lft.db
+-rwxr-xr-x 1 root root                2493 2013-04-05 11:52 lft.db
+-rwxr-xr-x 1 root root                5480 2013-04-05 11:52 line
+-rwxr-xr-x 1 root root               30248 2013-04-05 11:52 link
+-rwxr-xr-x 1 root root                1577 2013-04-05 12:02 linux-boot-prober
+-rwxr-xr-x 1 root root                2696 2013-04-05 11:52 linux-version
+lrwxrwxrwx 1 root root                   7 2013-04-05 11:52 linux32 -> /usr/bin/setarch
+lrwxrwxrwx 1 root root                   7 2013-04-05 11:52 linux64 -> /usr/bin/setarch
+-rwxr-xr-x 1 root root               11680 2013-04-05 11:52 lnstat
+lrwxrwxrwx 1 root root                  13 2013-04-05 11:53 loadkeys -> /bin/loadkeys
+-rwxr-xr-x 1 root root               22076 2013-04-05 11:53 loadunimap
+-rwxr-xr-x 1 root root               31784 2013-04-05 11:52 locale
+-rwxr-xr-x 1 root root              309180 2013-04-05 11:52 localedef
+-rwxr-xr-x 1 root root               18268 2013-04-05 11:52 logger
+-rwxr-xr-x 1 root root               26156 2013-04-05 11:52 logname
+-rwxr-xr-x 1 root root                9664 2013-04-05 11:52 look
+-rwxr-xr-x 1 root root                2763 2013-04-05 11:52 lorder
+-rwxr-xr-x 1 root root                9732 2013-04-05 11:52 lsattr
+-rwxr-xr-x 1 root root               30280 2013-04-05 11:52 lscpu
+-rwxr-xr-x 1 root root                1116 2013-04-05 11:52 lsinitramfs
+-rwxr-xr-x 1 root root               68724 2013-04-05 11:53 lspci
+-rwxr-xr-x 1 root root                1081 2013-04-05 11:52 lspgpot
+-rwxr-xr-x 1 root root              117632 2013-04-05 11:53 lsusb
+lrwxrwxrwx 1 root root                  23 2013-04-05 11:52 lzcat -> /usr/bin/xz
+lrwxrwxrwx 1 root root                  23 2013-04-05 11:52 lzcmp -> /usr/bin/xzdiff
+lrwxrwxrwx 1 root root                  24 2013-04-05 11:52 lzdiff -> /usr/bin/xzdiff
+lrwxrwxrwx 1 root root                  25 2013-04-05 11:52 lzegrep -> /usr/bin/xzgrep
+lrwxrwxrwx 1 root root                  25 2013-04-05 11:52 lzfgrep -> /usr/bin/xzgrep
+lrwxrwxrwx 1 root root                  24 2013-04-05 11:52 lzgrep -> /usr/bin/xzgrep
+lrwxrwxrwx 1 root root                  24 2013-04-05 11:52 lzless -> /usr/bin/xzless
+lrwxrwxrwx 1 root root                  22 2013-04-05 11:52 lzma -> /usr/bin/xz
+-rwxr-xr-x 1 root root                9644 2013-04-05 11:52 lzmainfo
+lrwxrwxrwx 1 root root                  24 2013-04-05 11:52 lzmore -> /usr/bin/xzmore
+-rwxr-xr-x 1 root root              160396 2013-04-05 12:01 make
+-rwxr-xr-x 1 root root              100968 2013-04-05 11:52 man
+-rwxr-xr-x 1 root root              124644 2013-04-05 11:52 mandb
+-rwxr-xr-x 1 root root               26172 2013-04-05 11:52 manpath
+-rwxr-xr-x 1 root root               17976 2013-04-05 11:53 mapscrn
+-rwxr-xr-x 1 root root              106908 2013-04-05 11:52 mawk
+-rwxr-xr-x 1 root root               13868 2013-04-05 11:52 mcookie
+-rwxr-xr-x 1 root root               38484 2013-04-05 11:52 md5sum
+lrwxrwxrwx 1 root root                   6 2013-04-05 11:52 md5sum.textutils -> /usr/bin/md5sum
+-rwxr-xr-x 1 root root                5528 2013-04-05 11:52 mesg
+-rwxr-xr-x 1 root root               16163 2013-04-05 11:53 mk_modmap
+-rwxr-xr-x 1 root root               30260 2013-04-05 11:52 mkfifo
+-rwxr-xr-x 1 root root                  65 2013-04-05 12:01 mkfontdir
+-rwxr-xr-x 1 root root               26784 2013-04-05 12:01 mkfontscale
+-rwxr-xr-x 1 root root                6524 2013-04-05 12:01 mtrace
+-rwxr-xr-x 1 root root               31093 2013-04-05 12:02 munchlist
+-rwxr-xr-x 1 root root               17920 2013-04-05 11:52 namei
+lrwxrwxrwx 1 root root                   9 2013-04-05 11:52 nano -> /bin/nano
+lrwxrwxrwx 1 root root                  22 2013-04-05 11:52 nawk -> /usr/bin/mawk
+-rwxr-xr-x 1 root root               24404 2013-04-05 11:52 ncal
+-rwxr-xr-x 1 root root                5226 2013-04-05 11:52 ncurses5-config
+-rwxr-xr-x 1 root root                5236 2013-04-05 11:52 ncursesw5-config
+-rwxr-xr-x 1 root root                 271 2013-04-05 11:52 neqn
+-rwsr-xr-x 1 root root               30880 2013-04-05 11:52 newgrp
+-rwxr-xr-x 1 root root               30284 2013-04-05 12:02 ngettext
+-rwxr-xr-x 1 root root               30264 2013-04-05 11:52 nice
+-rwxr-xr-x 1 root root               42652 2013-04-05 11:52 nl
+-rwxr-xr-x 1 root root               35340 2013-04-05 12:00 nm
+-rwxr-xr-x 1 root root               30280 2013-04-05 11:52 nohup
+-rwxr-xr-x 1 root root               30264 2013-04-05 11:52 nproc
+-rwxr-xr-x 1 root root                3401 2013-04-05 11:52 nroff
+-rwxr-xr-x 1 root root               14172 2013-04-05 11:52 nstat
+-rwxr-xr-x 1 root root              211424 2013-04-05 12:00 objcopy
+-rwxr-xr-x 1 root root              291184 2013-04-05 12:00 objdump
+-rwxr-xr-x 1 root root               67188 2013-04-05 11:52 od
+-rwxr-xr-x 1 root root              162424 2013-04-05 11:52 oldfind
+-rwxr-xr-x 1 root root             1675708 2013-04-05 11:52 omshell
+-rwxr-xr-x 1 root root                4260 2013-04-05 12:02 os-prober
+lrwxrwxrwx 1 root root                  23 2013-04-05 11:52 pager -> /bin/more
+-rwxr-xr-x 1 root root               38844 2013-04-05 11:52 partx
+-rwsr-xr-x 1 root root               45396 2013-04-05 11:52 passwd
+-rwxr-xr-x 1 root root               30268 2013-04-05 11:52 paste
+-rwxr-xr-x 1 root root              121584 2013-04-05 12:01 patch
+-rwxr-xr-x 1 root root               30256 2013-04-05 11:52 pathchk
+-rwxr-xr-x 1 root root                9808 2013-04-05 11:53 pcimodules
+lrwxrwxrwx 1 root root                   6 2013-04-05 12:06 pdb -> /usr/lib/python2.7/pdb.py
+lrwxrwxrwx 1 root root                  23 2013-04-05 12:06 pdb2.7 -> /usr/lib/python2.7/pdb.py
+-rwxr-xr-x 1 root root                 603 2013-04-05 11:52 perf
+-rwxr-xr-x 1 root root             1487332 2013-04-05 11:52 perl
+-rwxr-xr-x 1 root root             1487332 2013-04-05 11:52 perl5.14.2
+-rwxr-xr-x 1 root root               30352 2013-04-05 11:52 pg
+-rwxr-xr-x 1 root root               17984 2013-04-05 11:52 pgrep
+-rwxr-xr-x 1 root root                4096 2014-07-30 16:16 php
+-rwxr-xr-x 1 root root              166708 2013-04-05 11:52 pic
+lrwxrwxrwx 1 root root                  22 2013-04-05 11:52 pico -> /bin/nano
+-rwxr-xr-x 1 root root               34436 2013-04-05 11:52 pinky
+lrwxrwxrwx 1 root root                   5 2013-04-05 11:52 pkill -> /usr/bin/pgrep
+-rwxr-xr-x 1 root root               13832 2013-04-05 11:52 pmap
+-rwxr-xr-x 1 root root               63172 2013-04-05 11:52 pr
+-rwxr-xr-x 1 root root               38532 2013-04-05 11:52 preconv
+lrwxrwxrwx 1 root root                  11 2013-04-05 12:06 print -> /usr/bin/run-mailcap
+-rwxr-xr-x 1 root root               30244 2013-04-05 11:52 printenv
+-rwxr-xr-x 1 root root               17828 2013-04-05 11:52 printerbanner
+-rwxr-xr-x 1 root root               46688 2013-04-05 11:52 printf
+lrwxrwxrwx 1 root root                   9 2013-04-05 11:53 psfaddtable -> /usr/bin/psfxtable
+lrwxrwxrwx 1 root root                   9 2013-04-05 11:53 psfgettable -> /usr/bin/psfxtable
+lrwxrwxrwx 1 root root                   9 2013-04-05 11:53 psfstriptable -> /usr/bin/psfxtable
+-rwxr-xr-x 1 root root               17876 2013-04-05 11:53 psfxtable
+-rwxr-xr-x 1 root root               67276 2013-04-05 11:52 ptx
+-rwxr-xr-x 1 root root                9664 2013-04-05 11:52 pwdx
+-rwxr-xr-x 1 root root                4123 2013-04-05 12:06 pyclean
+-rwxr-xr-x 1 root root               11894 2013-04-05 12:06 pycompile
+lrwxrwxrwx 1 root root                   8 2013-04-05 12:06 pydoc -> /usr/bin/pydoc2.7
+-rwxr-xr-x 1 root root                  79 2013-04-05 12:06 pydoc2.7
+lrwxrwxrwx 1 root root                  12 2013-04-05 12:06 pygettext -> /usr/bin/pygettext2.7
+-rwxr-xr-x 1 root root               22103 2013-04-05 12:06 pygettext2.7
+lrwxrwxrwx 1 root root                   9 2013-04-05 12:06 python -> /usr/bin/python2.7
+-rwxr-xr-x 1 root root             2728836 2013-04-05 12:06 python2.7
+lrwxrwxrwx 1 root root                  29 2013-04-05 12:06 pyversions -> /usr/share/python/pyversions.py
+-rwxr-xr-x 1 root root               51324 2013-04-05 12:00 ranlib
+lrwxrwxrwx 1 root root                  21 2013-04-05 12:02 rcp -> /usr/bin/scp
+-rwxr-xr-x 1 root root              339380 2013-04-05 12:00 readelf
+-rwxr-xr-x 1 root root                5532 2013-04-05 11:52 rename.ul
+-rwxr-xr-x 1 root root                9632 2013-04-05 11:52 renice
+-rwxr-xr-x 1 root root                2166 2013-04-05 12:01 report-hw
+lrwxrwxrwx 1 root root                   4 2013-04-05 11:52 reset -> /usr/bin/tset
+-rwxr-xr-x 1 root root               13860 2013-04-05 11:53 resizecons
+-rwxr-xr-x 1 root root                9660 2013-04-05 11:52 rev
+-rwxr-xr-x 1 root root                  30 2013-04-05 11:52 rgrep
+lrwxrwxrwx 1 root root                  24 2013-04-05 12:02 rlogin -> /usr/bin/ssh
+-rwxr-xr-x 1 root root                 173 2013-04-05 11:52 routef
+-rwxr-xr-x 1 root root                1262 2013-04-05 11:52 routel
+-rwxr-xr-x 1 root root               79672 2013-04-05 12:01 rpcgen
+-rwxr-xr-x 1 root root               13788 2013-04-05 11:52 rpcinfo
+lrwxrwxrwx 1 root root                  21 2013-04-05 12:02 rsh -> /usr/bin/ssh
+lrwxrwxrwx 1 root root                   6 2013-04-05 11:52 rtstat -> /usr/bin/lnstat
+-rwxr-xr-x 1 root root               17084 2013-04-05 12:06 run-mailcap
+-rwxr-xr-x 1 root root               34408 2013-04-05 11:52 runcon
+lrwxrwxrwx 1 root root                  23 2013-04-05 11:52 rview -> /usr/bin/vim.tiny
+-rwxr-xr-x 1 root root               10347 2013-04-05 11:52 savelog
+-rwxr-xr-x 1 root root               62848 2013-04-05 12:02 scp
+-rwxr-xr-x 1 root root                9640 2013-04-05 11:53 screendump
+-rwxr-xr-x 1 root root               13844 2013-04-05 11:52 script
+-rwxr-xr-x 1 root root                9668 2013-04-05 11:52 scriptreplay
+-rwxr-xr-x 1 root root               50848 2013-04-05 11:52 sdiff
+lrwxrwxrwx 1 root root                  11 2013-04-05 12:06 see -> /usr/bin/run-mailcap
+-rwxr-xr-x 1 root root                 474 2013-04-05 12:02 select-default-iwrap
+-rwxr-xr-x 1 root root                1436 2013-04-05 11:52 sensible-browser
+-rwxr-xr-x 1 root root                 616 2013-04-05 11:52 sensible-editor
+-rwxr-xr-x 1 root root                 288 2013-04-05 11:52 sensible-pager
+-rwxr-xr-x 1 root root               42572 2013-04-05 11:52 seq
+-rwxr-xr-x 1 root root                9632 2013-04-05 11:52 setarch
+-rwxr-xr-x 1 root root                9612 2013-04-05 11:53 setkeycodes
+-rwxr-xr-x 1 root root                9672 2013-04-05 11:53 setleds
+-rwxr-xr-x 1 root root                5508 2013-04-05 11:53 setlogcons
+-rwxr-xr-x 1 root root                5588 2013-04-05 11:53 setmetamode
+-rwxr-xr-x 1 root root               17916 2013-04-05 11:53 setpci
+-rwxr-xr-x 1 root root                5520 2013-04-05 11:52 setsid
+-rwxr-xr-x 1 root root               26132 2013-04-05 11:52 setterm
+-rwxr-xr-x 1 root root                9716 2013-04-05 11:53 setvtrgb
+-rwxr-xr-x 1 root root               18344 2013-04-05 12:01 setxkbmap
+-rwxr-xr-x 1 root root              112124 2013-04-05 12:02 sftp
+lrwxrwxrwx 1 root root                   6 2013-04-05 11:52 sg -> /usr/bin/newgrp
+-rwxr-xr-x 1 root root               42580 2013-04-05 11:52 sha1sum
+-rwxr-xr-x 1 root root               46676 2013-04-05 11:52 sha224sum
+-rwxr-xr-x 1 root root               46676 2013-04-05 11:52 sha256sum
+-rwxr-xr-x 1 root root               87636 2013-04-05 11:52 sha384sum
+-rwxr-xr-x 1 root root               87636 2013-04-05 11:52 sha512sum
+-rwxr-xr-x 1 root root               13764 2013-04-05 11:53 showconsolefont
+-rwxr-xr-x 1 root root                9636 2013-04-05 11:53 showkey
+-rwxr-xr-x 1 root root               54960 2013-04-05 11:52 shred
+-rwxr-xr-x 1 root root               46732 2013-04-05 11:52 shuf
+-rwxr-xr-x 1 root root               24016 2013-04-05 12:00 size
+-rwxr-xr-x 1 root root               17968 2013-04-05 11:52 skill
+-rwxr-xr-x 1 root root               17916 2013-04-05 11:52 slabtop
+lrwxrwxrwx 1 root root                   3 2013-04-05 12:02 slogin -> /usr/bin/ssh
+lrwxrwxrwx 1 root root                   5 2013-04-05 11:52 snice -> /usr/bin/skill
+-rwxr-xr-x 1 root root               30292 2013-04-05 11:52 soelim
+-rwxr-xr-x 1 root root              100352 2013-04-05 11:52 sort
+-rwxr-xr-x 1 root root               67732 2013-04-05 11:52 split
+-rwxr-xr-x 1 root root                5508 2013-04-05 11:53 splitfont
+-rwxr-xr-x 1 root root               22064 2013-04-05 12:01 sprof
+-rwxr-xr-x 1 root root                5556 2013-04-05 12:02 sq
+-rwxr-xr-x 1 root root              440816 2013-04-05 12:02 ssh
+-rwxr-xr-x 1 root root              145324 2013-04-05 12:02 ssh-add
+-rwxr-sr-x 1 root systemd-resolve   128396 2013-04-05 12:02 ssh-agent
+-rwxr-xr-x 1 root root                1452 2013-04-05 12:02 ssh-argv0
+-rwxr-xr-x 1 root root                1489 2013-04-05 12:02 ssh-copy-id
+-rwxr-xr-x 1 root root              198604 2013-04-05 12:02 ssh-keygen
+-rwxr-xr-x 1 root root              235804 2013-04-05 12:02 ssh-keyscan
+-rwxr-xr-x 1 root root              133036 2013-04-05 12:02 ssh-vulnkey
+-rwxr-xr-x 1 root root               75500 2013-04-05 11:52 stat
+-rwxr-xr-x 1 root root               67228 2013-04-05 11:52 stdbuf
+-rwxr-xr-x 1 root root               22624 2013-04-05 12:00 strings
+-rwxr-xr-x 1 root root              211428 2013-04-05 12:00 strip
+-rwxr-xr-x 1 root root                3123 2013-04-05 12:01 su-to-root
+-rwxr-xr-x 1 root root               38496 2013-04-05 11:52 sum
+-rwxr-xr-x 1 root root                9768 2013-04-05 11:52 tabs
+-rwxr-xr-x 1 root root               34400 2013-04-05 11:52 tac
+-rwxr-xr-x 1 root root               63140 2013-04-05 11:52 tail
+-rwxr-xr-x 1 root root               15928 2013-04-05 11:52 tasksel
+-rwxr-xr-x 1 root root               17912 2013-04-05 11:52 taskset
+-rwxr-xr-x 1 root root              112252 2013-04-05 11:52 tbl
+-rwxr-xr-x 1 root root               30280 2013-04-05 11:52 tee
+-rwxr-xr-x 1 root root               30256 2013-04-05 11:52 test
+-rwxr-xr-x 1 root root               59104 2013-04-05 11:52 tic
+-rwxr-xr-x 1 root root               51316 2013-04-05 11:52 timeout
+-rwxr-xr-x 1 root root                9712 2013-04-05 11:52 tload
+-rwxr-xr-x 1 root root               13876 2013-04-05 11:52 toe
+-rwxr-xr-x 1 root root               69796 2013-04-05 11:52 top
+lrwxrwxrwx 1 root root                  10 2013-04-05 11:52 touch -> /bin/touch
+-rwxr-xr-x 1 root root               13916 2013-04-05 11:52 tput
+-rwxr-xr-x 1 root root               46668 2013-04-05 11:52 tr
+lrwxrwxrwx 1 root root                  28 2013-04-05 11:52 traceproto -> /usr/bin/traceproto.db
+-rwxr-xr-x 1 root root                2885 2013-04-05 11:52 traceproto.db
+lrwxrwxrwx 1 root root                  28 2013-04-05 11:52 traceroute -> /usr/bin/traceroute.db
+-rwxr-xr-x 1 root root                1618 2013-04-05 11:52 traceroute-nanog
+-rwxr-xr-x 1 root root               61396 2013-04-05 11:52 traceroute.db
+lrwxrwxrwx 1 root root                  29 2013-04-05 11:52 traceroute6 -> /usr/bin/traceroute.db
+lrwxrwxrwx 1 root root                  13 2013-04-05 11:52 traceroute6.db -> /usr/bin/traceroute.db
+-rwxr-xr-x 1 root root              463412 2013-04-05 11:52 troff
+-rwxr-xr-x 1 root root               54916 2013-04-05 11:52 truncate
+-rwxr-xr-x 1 root root                4919 2013-04-05 12:02 tryaffix
+-rwxr-xr-x 1 root root               18084 2013-04-05 11:52 tset
+-rwxr-xr-x 1 root root               38472 2013-04-05 11:52 tsort
+-rwxr-xr-x 1 root root               26160 2013-04-05 11:52 tty
+-rwxr-xr-x 1 root root                7251 2013-04-05 11:52 tzselect
+-rwxr-xr-x 1 root root               37937 2013-04-05 12:02 ucf
+-rwxr-xr-x 1 root root               19290 2013-04-05 12:02 ucfq
+-rwxr-xr-x 1 root root               10405 2013-04-05 12:02 ucfr
+-rwxr-xr-x 1 root root               15392 2013-04-05 12:01 ucs2any
+-rwxr-xr-x 1 root root               13756 2013-04-05 11:52 ul
+-rwxr-xr-x 1 root root               34380 2013-04-05 11:52 unexpand
+-rwxr-xr-x 1 root root                 530 2013-04-05 11:53 unicode_stop
+-rwxr-xr-x 1 root root               38492 2013-04-05 11:52 uniq
+-rwxr-xr-x 1 root root               26152 2013-04-05 11:52 unlink
+lrwxrwxrwx 1 root root                  24 2013-04-05 11:52 unlzma -> /usr/bin/xz
+-rwxr-xr-x 1 root root                5532 2013-04-05 11:52 unshare
+-rwxr-xr-x 1 root root                5572 2013-04-05 12:02 unsq
+lrwxrwxrwx 1 root root                   2 2013-04-05 11:52 unxz -> /usr/bin/xz
+-rwxr-xr-x 1 root root               42564 2013-04-05 11:52 update-alternatives
+-rwxr-xr-x 1 root root              129492 2013-04-05 12:01 update-menus
+-rwxr-xr-x 1 root root                2905 2013-04-05 11:53 update-pciids
+-rwxr-xr-x 1 root root                9636 2013-04-05 11:52 uptime
+-rwxr-xr-x 1 root root                4202 2013-04-05 11:53 usb-devices
+-rwxr-xr-x 1 root root               20460 2013-04-05 11:53 usbhid-dump
+-rwxr-xr-x 1 root root               30280 2013-04-05 11:52 users
+lrwxrwxrwx 1 root root                  20 2013-04-05 11:52 vi -> /usr/bin/vim.tiny
+lrwxrwxrwx 1 root root                  22 2013-04-05 11:52 view -> /usr/bin/vim.tiny
+-rwxr-xr-x 1 root root              730004 2013-04-05 11:52 vim.tiny
+-rwxr-xr-x 1 root root               26100 2013-04-05 11:52 vmstat
+-rwxr-xr-x 1 root root                5412 2013-04-05 11:53 volname
+lrwxrwxrwx 1 root root                  19 2013-04-05 11:52 w -> /usr/bin/w.procps
+-rwxr-xr-x 1 root root               17916 2013-04-05 11:52 w.procps
+-rwxr-sr-x 1 root tty                18020 2013-04-05 11:52 wall
+-rwxr-xr-x 1 root root               18288 2013-04-05 11:52 watch
+-rwxr-xr-x 1 root root               38524 2013-04-05 11:52 wc
+-rwxr-xr-x 1 root root              374300 2013-04-05 11:52 wget
+-rwxr-xr-x 1 root root               38676 2013-04-05 11:52 whatis
+-rwxr-xr-x 1 root root                9920 2013-04-05 11:52 whereis
+lrwxrwxrwx 1 root root                  10 2013-04-05 11:52 which -> /bin/which
+-rwxr-xr-x 1 root root               26272 2013-04-05 11:52 whiptail
+-rwxr-xr-x 1 root root               50820 2013-04-05 11:52 who
+-rwxr-xr-x 1 root root               30256 2013-04-05 11:52 whoami
+lrwxrwxrwx 1 root root                  23 2013-04-05 11:52 write -> /usr/bin/bsd-write
+lrwxrwxrwx 1 root root                   7 2013-04-05 11:52 x86_64 -> /usr/bin/setarch
+-rwxr-xr-x 1 root root               38480 2013-04-05 11:52 xargs
+-rwxr-xr-x 1 root root               32384 2013-04-05 12:01 xauth
+-rwxr-xr-x 1 root root                8692 2013-04-05 12:01 xkbbell
+-rwxr-xr-x 1 root root              194708 2013-04-05 12:01 xkbcomp
+-rwxr-xr-x 1 root root               27652 2013-04-05 12:01 xkbevd
+-rwxr-xr-x 1 root root               90040 2013-04-05 12:01 xkbprint
+-rwxr-xr-x 1 root root               17092 2013-04-05 12:01 xkbvleds
+-rwxr-xr-x 1 root root               14628 2013-04-05 12:01 xkbwatch
+-rwxr-xr-x 1 root root               13972 2013-04-05 11:52 xxd
+-rwxr-xr-x 1 root root               71516 2013-04-05 11:52 xz
+lrwxrwxrwx 1 root root                   2 2013-04-05 11:52 xzcat -> /usr/bin/xz
+lrwxrwxrwx 1 root root                   6 2013-04-05 11:52 xzcmp -> /usr/bin/xzdiff
+-rwxr-xr-x 1 root root                5518 2013-04-05 11:52 xzdiff
+lrwxrwxrwx 1 root root                   6 2013-04-05 11:52 xzegrep -> /usr/bin/xzgrep
+lrwxrwxrwx 1 root root                   6 2013-04-05 11:52 xzfgrep -> /usr/bin/xzgrep
+-rwxr-xr-x 1 root root                5421 2013-04-05 11:52 xzgrep
+-rwxr-xr-x 1 root root                1807 2013-04-05 11:52 xzless
+-rwxr-xr-x 1 root root                2168 2013-04-05 11:52 xzmore
+-rwxr-xr-x 1 root root               26152 2013-04-05 11:52 yes
+-rwxr-xr-x 1 root root               13752 2013-04-05 11:52 zdump
+-rwxr-xr-x 1 root root               46556 2013-04-05 11:52 zsoelim

@@ -1,8 +1,8 @@
-# 🧩 **Employee Data**
+# 🧩 **Red Team Path | Challenge - Employee Data**
 
 > 🏷️ *Category:* **OSINT / Web**
 > ⚙️ *Difficulty:* **Easy–Medium**
-> 🕵️ *Author:* **RTIOC – Red Team Track**
+> 🕵️ *Author:* **cibersecurity.ctfd.io – Red Team Track**
 > 🧠 *Concepts:* OSINT, security questions, password reset abuse, Python automation, enumeration
 
 ---
@@ -298,9 +298,9 @@ This challenge connects the dots between:
 
 ```markdown
 ---
-⭐ **Author:** {{Your Name or Team}}  
-🕒 **Date:** {{Month, Year}}  
-🏆 **CTF Event:** RTIOC – December CTF  
+⭐ **Author:** Mathieu N.  
+🕒 **Date:** December 2025
+🏆 **CTF Event:** RTIOC – December CTF
 📍 **Category:** OSINT / Web
 ---
 ```

@@ -1,0 +1,5 @@
+N72° 00.001' W070° 00.003'
+
+N72 W70 --> In martian planetary coordinates references the Abalos Undae dune.
+
+flag{AbalosUndae}

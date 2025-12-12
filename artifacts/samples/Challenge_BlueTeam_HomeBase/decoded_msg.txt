@@ -1,0 +1,30 @@
+<RedMsg>
+    <message>
+        Meet At Base, Target Plan
+    </message>
+    <priority>
+        P1
+    </priority>
+    <meetTime>
+    <type>
+        Reference
+    </type>
+    <mission>
+        Perseverance
+    </mission>
+        <sol>
+            1724
+        </sol>
+            <time>
+                13:00:00
+            </time>
+    </meetTime>
+    <meetLoc>
+        <type>
+            Reference
+        </type>
+        <value>
+            ribald interject miniature
+        </value>
+    </meetLoc>
+</RedMsg>

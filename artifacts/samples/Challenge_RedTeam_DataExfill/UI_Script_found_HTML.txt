@@ -1,0 +1,51 @@
+
+    $(document).ready(function () {
+        // Auto-submit form when any filter input changes
+        $('input[name="date"], input[name="name"], input[name="department"], input[name="amount"]').on('keyup', function (e) {
+            if (e.key === 'Enter' || e.keyCode === 13) {
+                e.preventDefault();
+
+                var form = $(this).closest('form');
+                var activeElement = document.activeElement;
+
+                $.ajax({
+                    url: form.attr('action') || window.location.pathname,
+                    type: 'GET',
+                    data: form.serialize() + '&page=1',
+                    success: function (response) {
+                        // Update the page content with the response
+                        $('body').html(response);
+                        // Update the URL with current filter parameters
+                        var currentUrl = new URL(window.location);
+                        var formData = new FormData(form[0]);
+
+                        // Clear existing parameters
+                        currentUrl.search = '';
+
+                        // Add form parameters to URL
+                        for (let [key, value] of formData.entries()) {
+                            if (key === 'page') continue; // Skip page parameter
+                            currentUrl.searchParams.set(key, value ?? '');
+                        }
+                        currentUrl.searchParams.set('page', '1'); // Reset to first page
+
+                        // Update browser URL without page reload
+                        window.history.replaceState({}, '', currentUrl);
+
+                        // Restore focus to the previously active element
+                        if (activeElement && activeElement.name) {
+                            var input = $('input[name="' + activeElement.name + '"]');
+                            input.focus();
+                            var len = input.val().length;
+                            input[0].setSelectionRange(len, len);
+                        }
+
+                        console.log(response);
+                    },
+                    error: function () {
+                        console.error('Error submitting form');
+                    }
+                });
+            }
+        });
+    });

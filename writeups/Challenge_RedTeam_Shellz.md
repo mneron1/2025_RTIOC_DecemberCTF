@@ -1,8 +1,8 @@
-# 🧩 **Shellz**
+# 🧩 **Red Team Path | Challenge - Shellz**
 
 > 🏷️ *Category:* **Forensics / OT / Misc**
 > ⚙️ *Difficulty:* **Medium**
-> 🕵️ *Author:* **RTIOC – December CTF (Cybersecurity Space)**
+> 🕵️ *Author:* **cibersecurity.ctfd.io – Red Team Track**
 > 🧠 *Concepts:* Linux jump host, OT/SCADA footprinting, filesystem backups, MySQL dump analysis, hash cracking (MD5)
 
 *Template based on my generic CTF writeup format.* 
@@ -456,14 +456,8 @@ This mimics a **real-world attack path**:
 Another flag captured — **SCADA ninja unlocked** 🥷⚡
 
 ---
-
-## 🧾 Optional: Reusable Writeup Footer (for GitHub)
-
-```markdown
+⭐ **Author:** Mathieu N.  
+🕒 **Date:** December 2025
+🏆 **CTF Event:** RTIOC – December CTF  
+📍 **Category:** Forensics / OT / Misc
 ---
-⭐ Author: Mathieu N.  
-🕒 Date: December 2025  
-🏆 CTF Event: RTIOC – December CTF  
-📍 Category: Forensics / OT / Misc
----
-```
